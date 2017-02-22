@@ -1,0 +1,33 @@
+body {
+background-color:  #feffef;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.container {
+max-width: 750px;
+margin: 0 auto 0 auto;
+}
+
+.headline{
+font-size: 80px;
+font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+line-height: 85px
+}
+
+.body{
+font-size: 22px;
+font-family: Georgia;
+line-height: 32px
+}
+
+img{
+max-width: 100%;
+}
+
+.video{
+display: block;
+margin: 0 auto 0 auto;
+}
